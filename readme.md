@@ -8,7 +8,7 @@ Esta aplicação utiliza o <a href="https://github.com/hotheadhacker/no-as-a-ser
 
 ## Descrição
 
-DesculpAPI foi desenvolvido com o intuito de gerar risadas com desculpas esfarrapadas em português de forma simples e divertida.  
+DesculpAPI foi desenvolvido com o intuito de gerar risadas com **desculpas esfarrapadas** em português de forma simples e divertida.  
 
 ## Como rodar o projeto
 
@@ -35,5 +35,6 @@ execute o main.py
 GPL-3.0
 
 Todos os créditos para [Salman Qureshi](https://github.com/hotheadhacker) e sua API.
+
 
 
