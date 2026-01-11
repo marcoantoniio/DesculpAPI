@@ -32,7 +32,8 @@ NAAS="URL_DA_API"
 execute o main.py
 ```
 ## licença
-GNU GENERAL PUBLIC LICENSE
+GPL-3.0
 
 Todos os créditos para [Salman Qureshi](https://github.com/hotheadhacker) e sua API.
+
 
