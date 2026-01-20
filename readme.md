@@ -10,6 +10,14 @@ Esta aplicação utiliza o <a href="https://github.com/hotheadhacker/no-as-a-ser
 
 DesculpAPI foi desenvolvido com o intuito de gerar risadas com **desculpas esfarrapadas** em português de forma simples e divertida.  
 
+**Base URL**
+
+```https://desculpapi.onrender.com/desculpa```
+
+**Método**
+
+```GET```
+
 ## Como rodar o projeto
 
 ```bash
@@ -35,6 +43,7 @@ execute o main.py
 GPL-3.0
 
 Todos os créditos para [Salman Qureshi](https://github.com/hotheadhacker) e sua API.
+
 
 
 
