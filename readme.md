@@ -37,12 +37,13 @@ crie um .env e coloque a URL da API do no-as-a-service dentro desse arquivo
 NAAS="URL_DA_API"
 
 # Rode a aplicação
-execute o main.py
+gunicorn app:app --bind 0.0.0.0:8000
 ```
 ## licença
 GPL-3.0
 
 Todos os créditos para [Salman Qureshi](https://github.com/hotheadhacker) e sua API.
+
 
 
 
