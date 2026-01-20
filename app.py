@@ -12,4 +12,4 @@ def desculpa_traduzida():
     if isinstance(excuse, str) and (excuse.startswith("Request error:") or excuse.startswith("Error") or excuse.startswith("Field")):
         return jsonify({"error": excuse}), 502
     translated_excuse = translate.translate_text(excuse, target_language="pt")
-    return jsonify({"excuse": translated_excuse})
+    return jsonify({"desculpa": translated_excuse})
