@@ -1,3 +1,5 @@
-requests
+Flask
+gunicorn
 python-dotenv
+requests
 deep-translator
